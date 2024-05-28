@@ -1,0 +1,1 @@
+#define CONFIG_DC_VOLTAGE 12
